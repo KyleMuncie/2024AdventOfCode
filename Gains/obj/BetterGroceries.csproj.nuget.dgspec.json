@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\KyleM\\source\\repos\\BetterGroceries\\BetterGroceries\\BetterGroceries.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\KyleM\\source\\repos\\BetterGroceries\\BetterGroceries\\BetterGroceries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KyleM\\source\\repos\\BetterGroceries\\BetterGroceries\\BetterGroceries.csproj",
+        "projectName": "BetterGroceries",
+        "projectPath": "C:\\Users\\KyleM\\source\\repos\\BetterGroceries\\BetterGroceries\\BetterGroceries.csproj",
+        "packagesPath": "C:\\Users\\KyleM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KyleM\\source\\repos\\BetterGroceries\\BetterGroceries\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KyleM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

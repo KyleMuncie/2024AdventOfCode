@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JqpYmvkXVqAttOakES1LE8SfeMnaSFruOjm7in5+a1hL7CFfrAqMwPg/KCsOooYz8mMK26bcBupgprmK5h1HkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KyleM\\source\\repos\\BetterGroceries\\BetterGroceries\\Gains.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KyleM\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\KyleM\\.nuget\\packages\\xamarin.essentials\\1.8.1\\xamarin.essentials.1.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}
