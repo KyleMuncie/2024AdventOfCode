@@ -1,7 +1,7 @@
 const fs = require("fs");
 
 function main() {
-    const data = fs.readFileSync("day1_data.txt", "utf8");
+    const data = fs.readFileSync("input.txt", "utf8");
     const lines = data.split("\n").filter(line => line.trim() !== "");
 
     let listOne = [];
